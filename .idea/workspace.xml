@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b7bc4b18-c602-4f86-b3cb-79b7371648da" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/FirstApp$CircularLinkedChain.ic" NAME="CircularLinkedChain Coverage Results" MODIFIED="1551933900196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/FirstApp$Numerote.ic" NAME="Numerote Coverage Results" MODIFIED="1554768937379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="210" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Numerote.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="478">
+              <caret line="219" selection-start-line="219" selection-end-line="219" />
+              <folding>
+                <element signature="e#1545#1546#0" expanded="true" />
+                <element signature="e#1595#1596#0" expanded="true" />
+                <element signature="docComment;method#auxSuma#0;class#Numerote#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>return</find>
+      <find>this.sign</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Complejo.java" />
+        <option value="$PROJECT_DIR$/src/Bag.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/ArrayBag.java" />
+        <option value="$PROJECT_DIR$/src/Chapter2/ArrayBag.java" />
+        <option value="$PROJECT_DIR$/src/ResizableBag.java" />
+        <option value="$PROJECT_DIR$/src/Hotel.java" />
+        <option value="$PROJECT_DIR$/src/LinkedBag.java" />
+        <option value="$PROJECT_DIR$/src/BagPackage/Node.java" />
+        <option value="$PROJECT_DIR$/src/BagPackage/LinkedBag.java" />
+        <option value="$PROJECT_DIR$/src/BagPackage/ResizableBag.java" />
+        <option value="$PROJECT_DIR$/src/StackInterface.java" />
+        <option value="$PROJECT_DIR$/src/evaluatePostfix.java" />
+        <option value="$PROJECT_DIR$/src/Node.java" />
+        <option value="$PROJECT_DIR$/src/convertToPostfix.java" />
+        <option value="$PROJECT_DIR$/src/BalanceChecker.java" />
+        <option value="$PROJECT_DIR$/src/arrayStack.java" />
+        <option value="$PROJECT_DIR$/src/ArrayStack.java" />
+        <option value="$PROJECT_DIR$/src/BagPackage/ArrayBag.java" />
+        <option value="$PROJECT_DIR$/src/LinkedStack.java" />
+        <option value="$PROJECT_DIR$/src/SortArray.java" />
+        <option value="$PROJECT_DIR$/src/QueueInterface.java" />
+        <option value="$PROJECT_DIR$/src/Queue.java" />
+        <option value="$PROJECT_DIR$/src/LinkedQueue.java" />
+        <option value="$PROJECT_DIR$/src/ArrayQueue.java" />
+        <option value="$PROJECT_DIR$/src/CircularLinkedChain.java" />
+        <option value="$PROJECT_DIR$/src/ListInterface.java" />
+        <option value="$PROJECT_DIR$/src/DrawPolyLine.java" />
+        <option value="$PROJECT_DIR$/src/LinkedList.java" />
+        <option value="$PROJECT_DIR$/src/ArrayList.java" />
+        <option value="$PROJECT_DIR$/src/ListIterator.java" />
+        <option value="$PROJECT_DIR$/src/Iterators/Lists/ArrayList.java" />
+        <option value="$PROJECT_DIR$/src/Lists/ArrayList.java" />
+        <option value="$PROJECT_DIR$/src/Iterators/IteratorForArrayList.java" />
+        <option value="$PROJECT_DIR$/src/Iterators/ArrayListWithIterator.java" />
+        <option value="$PROJECT_DIR$/src/Numerote.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="-1" />
+    <option name="width" value="1920" />
+    <option name="height" value="723" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FirstApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FirstApp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FirstApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FirstApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FirstApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FirstApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Iterators" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554941718757" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documentos/es.dic" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Numerote">
+    <configuration name="ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lists.ArrayList" />
+      <module name="DataStructure" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayListWithIterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Iterators.ArrayListWithIterator" />
+      <module name="DataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Iterators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DrawPolyPanel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DrawPolyPanel" />
+      <module name="DataStructure" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedList" />
+      <module name="DataStructure" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Numerote" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Numerote" />
+      <module name="DataStructure" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ArrayList" />
+      <item itemvalue="Application.DrawPolyPanel" />
+      <item itemvalue="Application.LinkedList" />
+      <item itemvalue="Application.Numerote" />
+      <item itemvalue="Application.ArrayListWithIterator" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Numerote" />
+        <item itemvalue="Application.ArrayListWithIterator" />
+        <item itemvalue="Application.LinkedList" />
+        <item itemvalue="Application.DrawPolyPanel" />
+        <item itemvalue="Application.ArrayList" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="1" Folder0="$USER_HOME$/Documentos" CustomDictionaries="1" CustomDictionary0="$USER_HOME$/Documentos/es.dic" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="project-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7bc4b18-c602-4f86-b3cb-79b7371648da" name="Default Changelist" comment="" />
+      <created>1549672402145</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549672402145</updated>
+      <workItem from="1549672418069" duration="2942000" />
+      <workItem from="1549685087167" duration="5253000" />
+      <workItem from="1549769519131" duration="5000" />
+      <workItem from="1550191824164" duration="288000" />
+      <workItem from="1550253339685" duration="148000" />
+      <workItem from="1550253552292" duration="4027000" />
+      <workItem from="1550271633035" duration="5676000" />
+      <workItem from="1550296379474" duration="1432000" />
+      <workItem from="1550456087287" duration="3083000" />
+      <workItem from="1550462891514" duration="599000" />
+      <workItem from="1550641133524" duration="774000" />
+      <workItem from="1550677156688" duration="706000" />
+      <workItem from="1550727753354" duration="1122000" />
+      <workItem from="1550773480550" duration="2027000" />
+      <workItem from="1550806495469" duration="3977000" />
+      <workItem from="1550874099526" duration="3312000" />
+      <workItem from="1550883720710" duration="239000" />
+      <workItem from="1551035541900" duration="3555000" />
+      <workItem from="1551132569784" duration="4988000" />
+      <workItem from="1551200479993" duration="5427000" />
+      <workItem from="1551385063739" duration="5885000" />
+      <workItem from="1551556596830" duration="551000" />
+      <workItem from="1551566933922" duration="7588000" />
+      <workItem from="1551759738946" duration="3776000" />
+      <workItem from="1551808192213" duration="3580000" />
+      <workItem from="1551930020854" duration="4868000" />
+      <workItem from="1552340894847" duration="2741000" />
+      <workItem from="1552427687651" duration="4723000" />
+      <workItem from="1552459437477" duration="212000" />
+      <workItem from="1553006257095" duration="1692000" />
+      <workItem from="1553037593948" duration="946000" />
+      <workItem from="1553383680851" duration="4633000" />
+      <workItem from="1553810050788" duration="937000" />
+      <workItem from="1554474290564" duration="3608000" />
+      <workItem from="1554486787143" duration="10262000" />
+      <workItem from="1554654574565" duration="5421000" />
+      <workItem from="1554740233331" duration="4007000" />
+      <workItem from="1554765008234" duration="3355000" />
+      <workItem from="1554817338728" duration="2964000" />
+      <workItem from="1554835835758" duration="6673000" />
+      <workItem from="1554941649572" duration="224000" />
+      <workItem from="1555185708481" duration="256000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="128482000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="-1" width="1366" height="723" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49610677" visible="true" weight="0.14015152" />
+      <window_info id="Structure" order="1" sideWeight="0.5038932" side_tool="true" weight="0.14087513" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" weight="0.32924226" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32879046" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2044293" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.37478706" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3270869" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.31911263" />
+      <window_info anchor="bottom" id="Duplicate detector" order="12" weight="0.32925472" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32954547" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Event Log" order="9" side_tool="true" weight="0.32977587" />
+      <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.32954547" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14941302" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" weight="0.32924226" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32925472" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30367073" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39043382" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32739422" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32516703" />
+      <window_info anchor="bottom" id="Duplicate detector" order="12" weight="0.32925472" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Event Log" order="9" side_tool="true" weight="0.32977587" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ArrayStack.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ArrayStack.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SortArray.java</url>
+          <line>107</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SortArray.java</url>
+          <line>177</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SortArray.java</url>
+          <line>170</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SortArray.java</url>
+          <line>171</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SortArray.java</url>
+          <line>199</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LinkedList.java</url>
+          <line>152</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="num.numerote[0]" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Complejo.java" />
+    <entry file="file://$PROJECT_DIR$/src/Habitacion.java" />
+    <entry file="file://$PROJECT_DIR$/src/Hotel.java" />
+    <entry file="file://$PROJECT_DIR$/src/BagPackage/BagInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BagPackage/ResizableBag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/evaluatePostfix.java" />
+    <entry file="file://$PROJECT_DIR$/src/BagPackage/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="e#437#438#0" expanded="true" />
+            <element signature="e#469#470#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BalanceChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-61">
+          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/convertToPostfix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-575">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StackInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1316">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1205#1206#0" expanded="true" />
+            <element signature="e#1233#1234#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BagPackage/LinkedBag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+          <folding>
+            <element signature="e#891#892#0" expanded="true" />
+            <element signature="e#929#930#0" expanded="true" />
+            <element signature="e#974#975#0" expanded="true" />
+            <element signature="e#1002#1003#0" expanded="true" />
+            <element signature="e#1048#1049#0" expanded="true" />
+            <element signature="e#1088#1089#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SortArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="docComment;method#insertionSort#0;class#SortArray#0" />
+            <element signature="method#insertionSort#0;class#SortArray#0" />
+            <element signature="method#insertInOrder#0;class#SortArray#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Node.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/QueueInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BagPackage/ArrayBag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2415">
+          <caret line="115" lean-forward="true" selection-start-line="115" selection-end-line="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="57" column="30" selection-start-line="57" selection-start-column="30" selection-end-line="57" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CircularLinkedChain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="25" column="49" lean-forward="true" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
+          <folding>
+            <element signature="e#1182#1183#0" expanded="true" />
+            <element signature="e#1221#1222#0" expanded="true" />
+            <element signature="e#1262#1263#0" expanded="true" />
+            <element signature="e#1293#1294#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DrawPolyPanel.java" />
+    <entry file="file://$PROJECT_DIR$/src/ArrayQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="607">
+          <caret line="63" column="54" selection-start-line="63" selection-start-column="54" selection-end-line="63" selection-end-column="54" />
+          <folding>
+            <element signature="e#750#751#0" expanded="true" />
+            <element signature="e#777#778#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1196">
+          <caret line="56" column="5" lean-forward="true" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Iterators/ListIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lists/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+          <folding>
+            <element signature="method#add#0;class#ArrayList#0" />
+            <element signature="method#add#1;class#ArrayList#0" />
+            <element signature="method#remove#0;class#ArrayList#0" />
+            <element signature="method#getEntry#0;class#ArrayList#0" />
+            <element signature="method#contains#0;class#ArrayList#0" />
+            <element signature="e#2120#2121#0" expanded="true" />
+            <element signature="e#2158#2159#0" expanded="true" />
+            <element signature="e#2204#2205#0" expanded="true" />
+            <element signature="e#2247#2248#0" expanded="true" />
+            <element signature="method#main#0;class#ArrayList#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Iterators/IteratorForArrayList.java" />
+    <entry file="file://$PROJECT_DIR$/src/Lists/ListInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Iterators/ArrayListWithIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="220" column="29" selection-start-line="220" selection-start-column="29" selection-end-line="220" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#412#413#0" expanded="true" />
+            <element signature="method#add#0;class#ArrayListWithIterator#0" />
+            <element signature="e#717#753#0" expanded="true" />
+            <element signature="e#1163#1199#0" expanded="true" />
+            <element signature="method#remove#0;class#ArrayListWithIterator#0" />
+            <element signature="method#getEntry#0;class#ArrayListWithIterator#0" />
+            <element signature="method#contains#0;class#ArrayListWithIterator#0" />
+            <element signature="e#2132#2133#0" expanded="true" />
+            <element signature="e#2170#2171#0" expanded="true" />
+            <element signature="e#2216#2217#0" expanded="true" />
+            <element signature="e#2259#2260#0" expanded="true" />
+            <element signature="e#2427#2463#0" expanded="true" />
+            <element signature="e#2513#2559#1" expanded="true" />
+            <element signature="e#2702#2703#0" expanded="true" />
+            <element signature="e#2741#2742#0" expanded="true" />
+            <element signature="e#3163#3164#0" expanded="true" />
+            <element signature="e#3199#3200#0" expanded="true" />
+            <element signature="e#4647#4648#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="93" column="40" selection-start-line="93" selection-start-column="40" selection-end-line="93" selection-end-column="40" />
+          <folding>
+            <element signature="method#LinkedList#0;class#LinkedList#0" />
+            <element signature="method#add#0;class#LinkedList#0" />
+            <element signature="method#add#1;class#LinkedList#0" />
+            <element signature="method#remove#0;class#LinkedList#0" />
+            <element signature="method#clear#0;class#LinkedList#0" />
+            <element signature="method#replace#0;class#LinkedList#0" />
+            <element signature="method#getEntry#0;class#LinkedList#0" />
+            <element signature="method#contains#0;class#LinkedList#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Numerote.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="219" selection-start-line="219" selection-end-line="219" />
+          <folding>
+            <element signature="e#1545#1546#0" expanded="true" />
+            <element signature="e#1595#1596#0" expanded="true" />
+            <element signature="docComment;method#auxSuma#0;class#Numerote#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
