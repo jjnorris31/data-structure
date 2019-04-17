@@ -1,7 +1,5 @@
 package Lists;
 
-import javax.management.NotificationEmitter;
-
 public class SortedLinkedList<T extends Comparable<? super T>> implements SortedListInterface<T>{
 
     private int numberOfEntries;

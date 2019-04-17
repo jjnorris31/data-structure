@@ -1,6 +1,6 @@
 package Lists;
 
-public class ArrayList<T> implements ListInterface<T> {
+public class ArrayList<T extends Comparable<? super T>> implements ListInterface<T> {
 
     private T[] list;
     private int numberOfEntries;
@@ -93,6 +93,24 @@ public class ArrayList<T> implements ListInterface<T> {
         return numberOfEntries == 0;
     }
 
+    private static boolean binarySearch(Integer[] sortedArrayList, Integer anEntry, int first, int last){
+
+        int mid = (first + last) / 2;
+        boolean result = false;
+
+        if (anEntry.equals(sortedArrayList[mid])){
+            return true;
+        } else if (first >= last){
+            return false;
+        } else if (anEntry.compareTo(sortedArrayList[mid]) < 0){
+            result = binarySearch(sortedArrayList, anEntry, first, mid - 1);
+        } else if (anEntry.compareTo(sortedArrayList[mid]) > 0){
+            result = binarySearch(sortedArrayList, anEntry, mid + 1, last);
+        }
+        return result;
+    }
+
+
     @SuppressWarnings("ManualArrayCopy")
     @Override
     public T[] toArray() {
@@ -104,18 +122,7 @@ public class ArrayList<T> implements ListInterface<T> {
     }
 
     public static void main(String[] args){
-        ArrayList<Integer> arrayList = new ArrayList<>();
-        arrayList.add(10);
-        arrayList.add(12);
-        arrayList.add(13);
-        arrayList.add(14);
-        arrayList.add(15);
-        arrayList.add(3, 50);
-        arrayList.remove(3);
-        Object[] array = arrayList.toArray();
-        for (Object integer : array) {
-            System.out.println(integer);
-        }
-
+        Integer[] myArray = new Integer[]{1, 3, 5, 7, 9, 11, 13, 15};
+        System.out.println(binarySearch(myArray, 17, 0, myArray.length - 1));
     }
 }

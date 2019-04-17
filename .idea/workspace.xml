@@ -2,41 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7bc4b18-c602-4f86-b3cb-79b7371648da" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lists/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lists/SortedLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lists/SortedListInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/ArrayQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/ArrayQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/ArrayStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/ArrayStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/BagPackage/ArrayBag.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/BagPackage/ArrayBag.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/BagPackage/BagInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/BagPackage/BagInterface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/BagPackage/LinkedBag.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/BagPackage/LinkedBag.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/BagPackage/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/BagPackage/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/BagPackage/ResizableBag.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/BagPackage/ResizableBag.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/BalanceChecker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/BalanceChecker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/CircularLinkedChain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/CircularLinkedChain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Iterators/ArrayListWithIterator$1.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Iterators/ArrayListWithIterator$IteratorForArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Iterators/ArrayListWithIterator$IteratorForArrayList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Iterators/ArrayListWithIterator$Move.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Iterators/ArrayListWithIterator$Move.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Iterators/ArrayListWithIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Iterators/ArrayListWithIterator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Iterators/ListIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Iterators/ListIterator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/LinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/LinkedQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/LinkedQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/LinkedStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/LinkedStack.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Lists/ArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Lists/ArrayList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Lists/ListInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Lists/ListInterface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/META-INF/DataStructure.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Numerote.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/QueueInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/QueueInterface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/SortArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/SortArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/StackInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/StackInterface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/convertToPostfix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/convertToPostfix.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Iterators/ArrayListWithIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Iterators/ArrayListWithIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lists/ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lists/ArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lists/SortedLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lists/SortedLinkedList.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,80 +29,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Lists/ArrayList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="997">
+              <caret line="128" column="51" selection-start-line="128" selection-start-column="51" selection-end-line="128" selection-end-column="51" />
               <folding>
-                <element signature="method#add#0;class#ArrayList#0" />
                 <element signature="method#add#1;class#ArrayList#0" />
                 <element signature="method#remove#0;class#ArrayList#0" />
                 <element signature="method#getEntry#0;class#ArrayList#0" />
                 <element signature="method#contains#0;class#ArrayList#0" />
-                <element signature="method#main#0;class#ArrayList#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LinkedStack.java">
+        <entry file="file://$PROJECT_DIR$/src/Lists/ListInterface.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="607">
-              <caret line="114" column="60" selection-start-line="114" selection-start-column="60" selection-end-line="114" selection-end-column="60" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Lists/SortedListInterface.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Lists/SortedLinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="406">
-              <caret line="51" column="8" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="8" />
-              <folding>
-                <element signature="e#1160#1161#0" expanded="true" />
-                <element signature="e#2550#2551#0" expanded="true" />
-                <element signature="e#2639#2640#0" expanded="true" />
-                <element signature="e#2708#2709#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Node.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Iterators/ArrayListWithIterator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-              <folding>
-                <element signature="e#366#367#0" expanded="true" />
-                <element signature="e#412#413#0" expanded="true" />
-                <element signature="method#add#0;class#ArrayListWithIterator#0" />
-                <element signature="method#remove#0;class#ArrayListWithIterator#0" />
-                <element signature="method#getEntry#0;class#ArrayListWithIterator#0" />
-                <element signature="method#contains#0;class#ArrayListWithIterator#0" />
-                <element signature="e#4571#4572#0" expanded="true" />
-                <element signature="e#4647#4648#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-391">
+              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -183,19 +101,21 @@
         <option value="$PROJECT_DIR$/src/CircularLinkedChain.java" />
         <option value="$PROJECT_DIR$/src/ListInterface.java" />
         <option value="$PROJECT_DIR$/src/DrawPolyLine.java" />
-        <option value="$PROJECT_DIR$/src/LinkedList.java" />
         <option value="$PROJECT_DIR$/src/ArrayList.java" />
         <option value="$PROJECT_DIR$/src/ListIterator.java" />
         <option value="$PROJECT_DIR$/src/Iterators/Lists/ArrayList.java" />
-        <option value="$PROJECT_DIR$/src/Lists/ArrayList.java" />
         <option value="$PROJECT_DIR$/src/Iterators/IteratorForArrayList.java" />
-        <option value="$PROJECT_DIR$/src/Iterators/ArrayListWithIterator.java" />
         <option value="$PROJECT_DIR$/src/Numerote.java" />
         <option value="$PROJECT_DIR$/src/LinkedStack.java" />
         <option value="$PROJECT_DIR$/src/Lists/SortedListInterface.java" />
         <option value="$PROJECT_DIR$/src/Node.java" />
         <option value="$PROJECT_DIR$/src/Lists/Node.java" />
+        <option value="$PROJECT_DIR$/src/Iterators/ArrayListWithIterator.java" />
+        <option value="$PROJECT_DIR$/src/LinkedList.java" />
+        <option value="$PROJECT_DIR$/src/Lists/ListInterface.java" />
         <option value="$PROJECT_DIR$/src/Lists/SortedLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/Lists/SortedArrayList.java" />
+        <option value="$PROJECT_DIR$/src/Lists/ArrayList.java" />
       </list>
     </option>
   </component>
@@ -216,6 +136,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -232,19 +153,12 @@
               <item name="data-structure" type="b2602c69:ProjectViewProjectNode" />
               <item name="data-structure" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="BagPackage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="data-structure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="data-structure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Lists" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -281,7 +195,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SortedLinkedList">
+  <component name="RunManager" selected="Application.ArrayList">
     <configuration name="ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lists.ArrayList" />
       <module name="DataStructure" />
@@ -302,16 +216,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedList" />
+    <configuration name="Numerote" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Numerote" />
       <module name="DataStructure" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Numerote" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Numerote" />
+    <configuration name="SortedArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lists.SortedArrayList" />
       <module name="DataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lists.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -331,18 +251,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.ArrayList" />
-      <item itemvalue="Application.LinkedList" />
       <item itemvalue="Application.Numerote" />
       <item itemvalue="Application.ArrayListWithIterator" />
       <item itemvalue="Application.SortedLinkedList" />
+      <item itemvalue="Application.SortedArrayList" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SortedLinkedList" />
         <item itemvalue="Application.ArrayList" />
+        <item itemvalue="Application.SortedArrayList" />
+        <item itemvalue="Application.SortedLinkedList" />
         <item itemvalue="Application.Numerote" />
         <item itemvalue="Application.ArrayListWithIterator" />
-        <item itemvalue="Application.LinkedList" />
       </list>
     </recent_temporary>
   </component>
@@ -404,12 +324,13 @@
       <workItem from="1555336565067" duration="499000" />
       <workItem from="1555337093256" duration="302000" />
       <workItem from="1555337420662" duration="204000" />
-      <workItem from="1555350029975" duration="6015000" />
+      <workItem from="1555350029975" duration="7145000" />
+      <workItem from="1555468257723" duration="3020000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="136273000" />
+    <option name="totallyTimeSpent" value="140423000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1032" extended-state="6" />
@@ -425,7 +346,7 @@
       <window_info id="Learn" order="7" weight="0.32924226" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32879046" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.20408164" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.20408164" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.37414965" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -433,8 +354,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3270869" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.31808037" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3265306" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.31746033" />
       <window_info anchor="bottom" id="Duplicate detector" order="12" weight="0.32925472" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -446,7 +367,7 @@
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Event Log" order="9" side_tool="true" weight="0.32977587" />
-      <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.32954547" />
+      <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.32924226" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14941302" />
@@ -538,12 +459,21 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Lists/SortedLinkedList.java</url>
-          <line>37</line>
+          <line>35</line>
           <properties />
           <option name="timeStamp" value="21" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lists/ArrayList.java</url>
+          <line>99</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/data_structure$ArrayList.ic" NAME="ArrayList Coverage Results" MODIFIED="1555471345127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Complejo.java" />
@@ -679,60 +609,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Iterators/IteratorForArrayList.java" />
-    <entry file="file://$PROJECT_DIR$/src/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="93" column="40" selection-start-line="93" selection-start-column="40" selection-end-line="93" selection-end-column="40" />
-          <folding>
-            <element signature="method#LinkedList#0;class#LinkedList#0" />
-            <element signature="method#add#0;class#LinkedList#0" />
-            <element signature="method#add#1;class#LinkedList#0" />
-            <element signature="method#remove#0;class#LinkedList#0" />
-            <element signature="method#clear#0;class#LinkedList#0" />
-            <element signature="method#replace#0;class#LinkedList#0" />
-            <element signature="method#getEntry#0;class#LinkedList#0" />
-            <element signature="method#contains#0;class#LinkedList#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Numerote.java" />
-    <entry file="file://$PROJECT_DIR$/src/LinkedStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="607">
-          <caret line="114" column="60" selection-start-line="114" selection-start-column="60" selection-end-line="114" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lists/ListInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="609">
-          <caret line="78" column="18" lean-forward="true" selection-start-line="35" selection-start-column="4" selection-end-line="78" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lists/SortedListInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lists/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="method#add#0;class#ArrayList#0" />
-            <element signature="method#add#1;class#ArrayList#0" />
-            <element signature="method#remove#0;class#ArrayList#0" />
-            <element signature="method#getEntry#0;class#ArrayList#0" />
-            <element signature="method#contains#0;class#ArrayList#0" />
-            <element signature="method#main#0;class#ArrayList#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/BagPackage/Node.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
@@ -747,11 +624,33 @@
     <entry file="file://$PROJECT_DIR$/src/Lists/Node.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2392">
+          <caret line="114" column="60" selection-start-line="114" selection-start-column="60" selection-end-line="114" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lists/SortedListInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="713">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Iterators/ArrayListWithIterator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="92">
+          <caret line="4" column="40" lean-forward="true" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
           <folding>
+            <element signature="imports" expanded="true" />
             <element signature="e#366#367#0" expanded="true" />
             <element signature="e#412#413#0" expanded="true" />
             <element signature="method#add#0;class#ArrayListWithIterator#0" />
@@ -764,22 +663,68 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Node.java">
+    <entry file="file://$PROJECT_DIR$/src/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
-          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+          <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+          <folding>
+            <element signature="method#LinkedList#0;class#LinkedList#0" />
+            <element signature="method#add#0;class#LinkedList#0" />
+            <element signature="method#add#1;class#LinkedList#0" />
+            <element signature="method#remove#0;class#LinkedList#0" />
+            <element signature="method#clear#0;class#LinkedList#0" />
+            <element signature="method#replace#0;class#LinkedList#0" />
+            <element signature="method#getEntry#0;class#LinkedList#0" />
+            <element signature="method#contains#0;class#LinkedList#0" />
+            <element signature="e#4019#4020#0" expanded="true" />
+            <element signature="e#4057#4058#0" expanded="true" />
+            <element signature="e#4103#4104#0" expanded="true" />
+            <element signature="e#4146#4147#0" expanded="true" />
+            <element signature="e#4188#4189#0" expanded="true" />
+            <element signature="e#4215#4216#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Lists/SortedLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="51" column="8" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="8" />
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
           <folding>
-            <element signature="e#1160#1161#0" expanded="true" />
-            <element signature="e#2550#2551#0" expanded="true" />
-            <element signature="e#2639#2640#0" expanded="true" />
-            <element signature="e#2708#2709#0" expanded="true" />
+            <element signature="e#2542#2543#0" expanded="true" />
+            <element signature="e#2585#2586#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lists/ListInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-391">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lists/SortedArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="59" column="4" lean-forward="true" selection-start-line="59" selection-start-column="4" selection-end-line="73" />
+          <folding>
+            <element signature="e#213#267#1" expanded="true" />
+            <element signature="e#644#645#0" expanded="true" />
+            <element signature="e#668#669#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lists/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="997">
+          <caret line="128" column="51" selection-start-line="128" selection-start-column="51" selection-end-line="128" selection-end-column="51" />
+          <folding>
+            <element signature="method#add#1;class#ArrayList#0" />
+            <element signature="method#remove#0;class#ArrayList#0" />
+            <element signature="method#getEntry#0;class#ArrayList#0" />
+            <element signature="method#contains#0;class#ArrayList#0" />
           </folding>
         </state>
       </provider>

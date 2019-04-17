@@ -4,7 +4,7 @@ import Lists.ListInterface;
 
 import java.util.NoSuchElementException;
 
-public class ArrayListWithIterator<T> implements ListInterface<T> {
+public class ArrayListWithIterator<T extends Comparable<? super T>> implements ListInterface<T> {
 
     private T[] list;
     private int numberOfEntries;
