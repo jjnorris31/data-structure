@@ -1,3 +1,5 @@
+package Dictionary;
+
 import java.util.Iterator;
 
 public interface DictionaryInterface<K, V> {
@@ -8,7 +10,7 @@ public interface DictionaryInterface<K, V> {
      * corresponding value.
      * @param key an object search key of the new entry
      * @param value an object associated with the search key
-     * @return either ull if the new entry was added to the dictionary
+     * @return either null if the new entry was added to the dictionary
      *         of the value that was associated with key if that value
      *         was replaced
      */
