@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7bc4b18-c602-4f86-b3cb-79b7371648da" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Dictionary/LinkedDictionary.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Lists/ArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Lists/ArrayList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dictionary/ArrayDictionary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dictionary/ArrayDictionary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dictionary/DictionaryInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dictionary/DictionaryInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dictionary/Entry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dictionary/Entry.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,46 +28,59 @@
         <entry file="file://$PROJECT_DIR$/src/Dictionary/DictionaryInterface.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="276">
-              <caret line="12" column="66" lean-forward="true" selection-start-line="12" selection-start-column="66" selection-end-line="12" selection-end-column="66" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Dictionary/ArrayDictionary.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="487">
-              <caret line="133" column="35" lean-forward="true" selection-start-line="133" selection-start-column="35" selection-end-line="133" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#277#278#0" expanded="true" />
-                <element signature="e#296#297#0" expanded="true" />
-                <element signature="e#414#444#1" expanded="true" />
-                <element signature="e#2680#2681#0" expanded="true" />
-                <element signature="e#2764#2765#0" expanded="true" />
-                <element signature="e#2850#2851#0" expanded="true" />
-                <element signature="e#2939#2940#0" expanded="true" />
-                <element signature="e#3019#3020#0" expanded="true" />
-                <element signature="e#3070#3100#1" expanded="true" />
-              </folding>
+              <caret line="12" column="66" selection-start-line="12" selection-start-column="66" selection-end-line="12" selection-end-column="66" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Dictionary/Entry.java">
+        <entry file="file://$PROJECT_DIR$/src/Dictionary/ArrayDictionary.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-493">
-              <caret lean-forward="true" />
+            <state relative-caret-position="367">
+              <caret line="133" column="35" selection-start-line="133" selection-start-column="35" selection-end-line="133" selection-end-column="35" />
               <folding>
-                <element signature="e#207#208#0" expanded="true" />
-                <element signature="e#233#234#0" expanded="true" />
-                <element signature="e#266#267#0" expanded="true" />
-                <element signature="e#296#297#0" expanded="true" />
-                <element signature="e#323#324#0" expanded="true" />
-                <element signature="e#351#352#0" expanded="true" />
-                <element signature="e#388#389#0" expanded="true" />
-                <element signature="e#422#423#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#2632#2633#0" expanded="true" />
+                <element signature="e#2680#2681#0" expanded="true" />
+                <element signature="e#2737#2738#0" expanded="true" />
+                <element signature="e#2764#2765#0" expanded="true" />
+                <element signature="e#2823#2824#0" expanded="true" />
+                <element signature="e#2850#2851#0" expanded="true" />
+                <element signature="e#2896#2897#0" expanded="true" />
+                <element signature="e#2939#2940#0" expanded="true" />
+                <element signature="e#2981#2982#0" expanded="true" />
+                <element signature="e#3019#3020#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Dictionary/LinkedDictionary.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2086">
+              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+              <folding>
+                <element signature="method#LinkedDictionary#0;class#LinkedDictionary#0" />
+                <element signature="e#266#316#0" expanded="true" />
+                <element signature="class#Node#0;class#LinkedDictionary#0" />
+                <element signature="e#256#257#0" expanded="true" />
+                <element signature="e#285#286#0" expanded="true" />
+                <element signature="e#510#511#0" expanded="true" />
+                <element signature="e#548#549#0" expanded="true" />
+                <element signature="e#584#585#0" expanded="true" />
+                <element signature="e#618#619#0" expanded="true" />
+                <element signature="e#649#650#0" expanded="true" />
+                <element signature="e#685#686#0" expanded="true" />
+                <element signature="e#743#744#0" expanded="true" />
+                <element signature="e#785#786#0" expanded="true" />
+                <element signature="e#1005#1006#0" expanded="true" />
+                <element signature="e#898#899#0" expanded="true" />
+                <element signature="e#932#933#0" expanded="true" />
+                <element signature="e#3052#3053#0" expanded="true" />
+                <element signature="e#3138#3139#0" expanded="true" />
+                <element signature="e#3227#3228#0" expanded="true" />
+                <element signature="e#3307#3308#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -143,6 +153,7 @@
         <option value="$PROJECT_DIR$/src/Dictionary/Entry.java" />
         <option value="$PROJECT_DIR$/src/Dictionary/DictionaryInterface.java" />
         <option value="$PROJECT_DIR$/src/Dictionary/ArrayDictionary.java" />
+        <option value="$PROJECT_DIR$/src/Dictionary/LinkedDictionary.java" />
       </list>
     </option>
   </component>
@@ -164,8 +175,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -194,6 +203,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -230,7 +241,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayDictionary">
+  <component name="RunManager" selected="Application.LinkedDictionary">
     <configuration name="ArrayDictionary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Dictionary.ArrayDictionary" />
       <module name="DataStructure" />
@@ -251,9 +262,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Numerote" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Numerote" />
+    <configuration name="LinkedDictionary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dictionary.LinkedDictionary" />
       <module name="DataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Dictionary.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -286,18 +303,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.ArrayList" />
-      <item itemvalue="Application.Numerote" />
       <item itemvalue="Application.SortedLinkedList" />
       <item itemvalue="Application.SortedArrayList" />
       <item itemvalue="Application.ArrayDictionary" />
+      <item itemvalue="Application.LinkedDictionary" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LinkedDictionary" />
         <item itemvalue="Application.ArrayDictionary" />
         <item itemvalue="Application.ArrayList" />
         <item itemvalue="Application.SortedArrayList" />
         <item itemvalue="Application.SortedLinkedList" />
-        <item itemvalue="Application.Numerote" />
       </list>
     </recent_temporary>
   </component>
@@ -368,17 +385,52 @@
       <workItem from="1555565996525" duration="4000" />
       <workItem from="1555609559663" duration="670000" />
       <workItem from="1555612463096" duration="4334000" />
+      <workItem from="1555616919379" duration="165000" />
+      <workItem from="1555784371585" duration="3235000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="146369000" />
+    <option name="totallyTimeSpent" value="149769000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1032" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49610677" visible="true" weight="0.1398079" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49610677" visible="true" weight="0.18356457" />
+      <window_info id="Structure" order="1" sideWeight="0.5038932" side_tool="true" weight="0.14087513" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" weight="0.32924226" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32879046" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.20385051" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.37414965" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32616082" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3171008" />
+      <window_info anchor="bottom" id="Duplicate detector" order="12" weight="0.32925472" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32954547" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Event Log" order="9" side_tool="true" weight="0.32977587" />
+      <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.32924226" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49610677" visible="true" weight="0.1398079" />
       <window_info id="Structure" order="1" sideWeight="0.5038932" side_tool="true" weight="0.14087513" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -396,7 +448,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3265306" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32616082" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.31746033" />
       <window_info anchor="bottom" id="Duplicate detector" order="12" weight="0.32925472" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -410,39 +462,6 @@
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Event Log" order="9" side_tool="true" weight="0.32977587" />
       <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.32924226" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14941302" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Learn" order="7" weight="0.32924226" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32925472" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.30367073" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39043382" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32739422" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32516703" />
-      <window_info anchor="bottom" id="Duplicate detector" order="12" weight="0.32925472" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" />
-      <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="Event Log" order="9" side_tool="true" weight="0.32977587" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -528,6 +547,12 @@
           <line>52</line>
           <properties />
           <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Dictionary/LinkedDictionary.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="30" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -677,9 +702,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lists/Node.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/LinkedStack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2392">
@@ -761,23 +783,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dictionary/Entry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-493">
-          <caret lean-forward="true" />
-          <folding>
-            <element signature="e#207#208#0" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
-            <element signature="e#266#267#0" expanded="true" />
-            <element signature="e#296#297#0" expanded="true" />
-            <element signature="e#323#324#0" expanded="true" />
-            <element signature="e#351#352#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
-            <element signature="e#422#423#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Lists/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-651">
@@ -798,28 +803,68 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Dictionary/Entry.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Dictionary/DictionaryInterface.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
-          <caret line="12" column="66" lean-forward="true" selection-start-line="12" selection-start-column="66" selection-end-line="12" selection-end-column="66" />
+          <caret line="12" column="66" selection-start-line="12" selection-start-column="66" selection-end-line="12" selection-end-column="66" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Dictionary/ArrayDictionary.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="487">
-          <caret line="133" column="35" lean-forward="true" selection-start-line="133" selection-start-column="35" selection-end-line="133" selection-end-column="35" />
+        <state relative-caret-position="367">
+          <caret line="133" column="35" selection-start-line="133" selection-start-column="35" selection-end-line="133" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#277#278#0" expanded="true" />
-            <element signature="e#296#297#0" expanded="true" />
-            <element signature="e#414#444#1" expanded="true" />
+            <element signature="e#2632#2633#0" expanded="true" />
             <element signature="e#2680#2681#0" expanded="true" />
+            <element signature="e#2737#2738#0" expanded="true" />
             <element signature="e#2764#2765#0" expanded="true" />
+            <element signature="e#2823#2824#0" expanded="true" />
             <element signature="e#2850#2851#0" expanded="true" />
+            <element signature="e#2896#2897#0" expanded="true" />
             <element signature="e#2939#2940#0" expanded="true" />
+            <element signature="e#2981#2982#0" expanded="true" />
             <element signature="e#3019#3020#0" expanded="true" />
-            <element signature="e#3070#3100#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lists/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" lean-forward="true" selection-start-column="14" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Dictionary/LinkedDictionary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2086">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding>
+            <element signature="method#LinkedDictionary#0;class#LinkedDictionary#0" />
+            <element signature="e#266#316#0" expanded="true" />
+            <element signature="class#Node#0;class#LinkedDictionary#0" />
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#510#511#0" expanded="true" />
+            <element signature="e#548#549#0" expanded="true" />
+            <element signature="e#584#585#0" expanded="true" />
+            <element signature="e#618#619#0" expanded="true" />
+            <element signature="e#649#650#0" expanded="true" />
+            <element signature="e#685#686#0" expanded="true" />
+            <element signature="e#743#744#0" expanded="true" />
+            <element signature="e#785#786#0" expanded="true" />
+            <element signature="e#1005#1006#0" expanded="true" />
+            <element signature="e#898#899#0" expanded="true" />
+            <element signature="e#932#933#0" expanded="true" />
+            <element signature="e#3052#3053#0" expanded="true" />
+            <element signature="e#3138#3139#0" expanded="true" />
+            <element signature="e#3227#3228#0" expanded="true" />
+            <element signature="e#3307#3308#0" expanded="true" />
           </folding>
         </state>
       </provider>
